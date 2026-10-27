@@ -1,5 +1,9 @@
 # bea_codecs
 
+[![Package Version](https://img.shields.io/hexpm/v/bea_codecs)](https://hex.pm/packages/bea_codecs)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/bea_codecs/)
+[![Guide](https://img.shields.io/badge/guide-read-8a2be2)](https://v4rm4n.github.io/bea_codecs/)
+
 **Serialization and deserialization codecs for [Bea](https://github.com/the-bea-project/bea).**
 
 `bea_codecs` provides reusable encoders, decoders, and derivers for Bea's `@derive` system.
