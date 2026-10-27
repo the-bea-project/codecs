@@ -1,0 +1,13 @@
+name = "bea_codecs"
+version = "1.0.0"
+description = "Serialization and deserialization codecs for Bea, with @derive support"
+
+# licences = ["Apache-2.0"]
+# repository = { type = "github", user = "the-bea-project", repo = "codecs" }
+
+[dependencies]
+gleam_stdlib = ">= 0.44.0 and < 2.0.0"
+gleam_json = ">= 3.0.0 and < 4.0.0"
+
+[dev_dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"
